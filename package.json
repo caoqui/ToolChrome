@@ -1,0 +1,21 @@
+{
+  "name": "toolchrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hide-my-name-vpn": "^1.0.1",
+    "https-proxy-agent": "^7.0.4",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.6.5",
+    "selenium-webdriver": "^4.19.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
